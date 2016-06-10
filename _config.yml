@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://yueran.github.io
+title: Yueran
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
